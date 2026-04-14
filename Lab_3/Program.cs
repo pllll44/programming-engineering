@@ -31,7 +31,7 @@
 
 
 //}
-
+// Пример 2
 //using System;
 
 //public  class Program
@@ -63,6 +63,7 @@
 //        }
 //    }
 //}
+// Пример 3
 using System;
 
 public class Program
