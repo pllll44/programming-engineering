@@ -1,8 +1,0 @@
-C:\Users\Professional\Desktop\Учеба\Задания 2026\Программная инженерия\MS VS programming-engineering\Lab _1\bin\Debug\Lab _1.exe.config
-C:\Users\Professional\Desktop\Учеба\Задания 2026\Программная инженерия\MS VS programming-engineering\Lab _1\bin\Debug\Lab _1.exe
-C:\Users\Professional\Desktop\Учеба\Задания 2026\Программная инженерия\MS VS programming-engineering\Lab _1\bin\Debug\Lab _1.pdb
-C:\Users\Professional\Desktop\Учеба\Задания 2026\Программная инженерия\MS VS programming-engineering\Lab _1\obj\Debug\Lab _1.csproj.AssemblyReference.cache
-C:\Users\Professional\Desktop\Учеба\Задания 2026\Программная инженерия\MS VS programming-engineering\Lab _1\obj\Debug\Lab _1.csproj.CoreCompileInputs.cache
-C:\Users\Professional\Desktop\Учеба\Задания 2026\Программная инженерия\MS VS programming-engineering\Lab _1\obj\Debug\Lab _1.exe
-C:\Users\Professional\Desktop\Учеба\Задания 2026\Программная инженерия\MS VS programming-engineering\Lab _1\obj\Debug\Lab _1.pdb
-C:\Users\Professional\Desktop\Учеба\Задания 2026\Программная инженерия\MS VS programming-engineering\Lab _1\obj\Debug\Lab _1.exe.config
