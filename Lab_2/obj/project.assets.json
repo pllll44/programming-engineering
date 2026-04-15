@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Professional\\Desktop\\Учеба\\Задания 2026\\Программная инженерия\\MS VS programming-engineering\\Lab_2\\Lab_2.csproj",
-      "projectName": "Lab_2",
-      "projectPath": "C:\\Users\\Professional\\Desktop\\Учеба\\Задания 2026\\Программная инженерия\\MS VS programming-engineering\\Lab_2\\Lab_2.csproj",
+      "projectUniqueName": "C:\\Users\\Professional\\Desktop\\Учеба\\Задания 2026\\Программная инженерия\\MS VS programming-engineering\\Lab_2\\1.2_Work_wNumbers.csproj",
+      "projectName": "1.2_Work_wNumbers",
+      "projectPath": "C:\\Users\\Professional\\Desktop\\Учеба\\Задания 2026\\Программная инженерия\\MS VS programming-engineering\\Lab_2\\1.2_Work_wNumbers.csproj",
       "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Professional\\Desktop\\Учеба\\Задания 2026\\Программная инженерия\\MS VS programming-engineering\\Lab_2\\obj\\",
       "projectStyle": "PackageReference",
