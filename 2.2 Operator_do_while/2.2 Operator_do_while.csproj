@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>_2._2_Operator_do_while</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Professional\Desktop\Учеба\Задания 2026\1.Программная инженерия\MS VS programming-engineering\2.2 Operator_do_while\Program.cs" Link="Program.cs" />
+    <Compile Include="C:\Users\Professional\Desktop\Учеба\Задания 2026\Программная инженерия\MS VS programming-engineering\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>
