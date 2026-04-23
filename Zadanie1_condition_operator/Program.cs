@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection.Metadata.Ecma335;
 
-namespace Lab_3
+namespace Lab_2
 {
     internal class Program
     {
